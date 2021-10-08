@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @w0nlyDS
-- 👀 I’m interested in making data based decisions in the chemical engineering field. As the world moves towards automation, it is a necessity for an engineer to use statistical analysis with business acumen.
-- 🌱 I’m currently developing my python, SQL, and machine learning through Kaggle. Rather than focus on learning from MOOC sites, why not solve a problem?
-- 💞️ I’m looking to collaborate on Kaggle. 
-- 📫 How to reach me at won.lee1230@gmail.com. 
-
-<!---
-w0nlyDS/w0nlyDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Data Science Portfolio
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks. 
+* ### Data Analysis and Visualization
+* [Solar Plant Analysis](https://github.com/w0nlyDS/Solar-Plant-Analysis/blob/main/Solar_Panel_Analysis.ipynb): Exploratory data analysis of faulty inverters for a solar plant. Used anomaly detection, model prediction using linear and non-linear models. 
